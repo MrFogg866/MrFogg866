@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MrFogg866
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning full stack coding
+- 🌱 Full Stack Software Developer Student
 - 💞️ I’m looking to collaborate on coding
 - 📫 How to reach me L1L2L3
 
